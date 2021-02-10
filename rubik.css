@@ -1,8 +1,10 @@
 body{
   background-color: #ededc1;
+  background-image: url('hatterkocka.png');
+  background-attachment: fixed;
   background-size: 70px 70px;
-  background-repeat: repeat-y;
-  background-position: right top;
+  background-repeat: no-repeat;
+  background-position: right center;
   padding: 15px 95px 15px 15px;
 }
 
@@ -14,10 +16,17 @@ h1{
   margin: 40px 0px 100px 175px;
 }
 
+h2{
+  color: #443507;
+}
+
+h3{
+  color: #443507;
+}
+
 p{
   text-align: justify;
 }
-
 
 .jobbra{
   text-align: right;
@@ -27,6 +36,7 @@ p{
   font-size: 70%;
   padding: 7px;
   font-weight: normal;
+  background-color: #a0a0a0;
 }
 
 li{
