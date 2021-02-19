@@ -1,14 +1,9 @@
 body{
-  background-color: #ececec;
-  background-attachment: fixed;
-  background-size: 70px 70px;
-  background-repeat: no-repeat;
-  background-position: right center;
-  padding: 15px 95px 15px 15px;
+  background-color: #b3b3b3;
 }
 
 h2{
-  color: #443507;
+  color: black;
 }
 p{
   text-align: justify;
